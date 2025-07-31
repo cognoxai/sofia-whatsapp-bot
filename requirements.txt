@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+redis
+httpx
+langchain
+langchain-google-genai
+langchain-community
